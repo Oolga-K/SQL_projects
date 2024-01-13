@@ -1,6 +1,6 @@
 -- Data: US Retail Trade Report
 -- Type of analysis: general and time series for car sales category.
--- For easier interpretation of retrieved data I'm exporting the outcome to Tableau - link to dashboard: 
+-- For easier interpretation of retrieved data I'm exporting the outcome to Tableau - link to dashboard: https://public.tableau.com/app/profile/olga.klusek/viz/US_Car_sales/US_Car_Sales
 SELECT DISTINCT
     (kind_of_business)
 FROM
